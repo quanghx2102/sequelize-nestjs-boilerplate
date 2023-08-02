@@ -1,0 +1,15 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "semi": true,
+  "eslintIntegration": true,
+  "overrides": [
+    {
+      "files": "*.ts",
+      "options": {
+        "eslintIgnore": true
+      }
+    }
+  ]
+}
